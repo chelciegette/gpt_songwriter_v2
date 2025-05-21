@@ -10,11 +10,12 @@ from langchain.vectorstores import FAISS
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.memory import ConversationBufferMemory
 
-# Load API key from .env file
+# Load API key from .env or Streamlit secrets
 load_dotenv()
-openai_api_key = os.getenv("OPENAI_API_KEY")
+openai_api_key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
 
 # Streamlit page setup
+st.set_page_config(page_title="🎶 GPT Songwriter Assistant", layout="centered")
 st.title("🎶 GPT Songwriter Assistant")
 
 st.write("""
@@ -28,7 +29,6 @@ Try asking things like:
 🎧 This app is trained on chord breakdowns from songs by Emily King, D’Angelo, Norah Jones, and more.
 """)
 
-
 # Load documents from songwriter_data folder
 docs = []
 data_folder = Path("songwriter_data")
@@ -39,14 +39,14 @@ if data_folder.exists():
 else:
     st.warning("No 'songwriter_data' folder found!")
 
-# Only continue if documents exist
+# Proceed only if documents exist
 if docs:
-    # Create embeddings and vector store
+    # Set up embedding and vector store
     embeddings = OpenAIEmbeddings(openai_api_key=openai_api_key)
     db = FAISS.from_documents(docs, embeddings)
     retriever = db.as_retriever()
 
-    # Set up GPT and memory
+    # Set up LLM and memory
     llm = ChatOpenAI(openai_api_key=openai_api_key, temperature=0.7)
     memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
     qa_chain = ConversationalRetrievalChain.from_llm(
@@ -55,9 +55,8 @@ if docs:
         memory=memory
     )
 
-    # User input
-user_input = st.text_input("Ask a question about chords, progressions, or song structure")
-
+    # Prompt input
+    user_input = st.text_input("Ask a question about chords, progressions, or song structure")
 
     if user_input:
         with st.spinner("Thinking..."):
