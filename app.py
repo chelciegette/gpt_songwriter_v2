@@ -15,9 +15,19 @@ load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
 # Streamlit page setup
-st.set_page_config(page_title="🎶 GPT Songwriter", layout="centered")
 st.title("🎶 GPT Songwriter Assistant")
-st.write("Ask questions based on your notes, lyrics, or chord ideas!")
+
+st.write("""
+Ask me about chord progressions, key changes, or the emotional feel of songs.
+
+Try asking things like:
+- “What chords are used in Georgia?”
+- “Give me a soulful progression in G major”
+- “How does Emily King use modal mixture?”
+
+🎧 This app is trained on chord breakdowns from songs by Emily King, D’Angelo, Norah Jones, and more.
+""")
+
 
 # Load documents from songwriter_data folder
 docs = []
@@ -46,7 +56,8 @@ if docs:
     )
 
     # User input
-    user_input = st.text_input("What would you like help with?")
+user_input = st.text_input("Ask a question about chords, progressions, or song structure")
+
 
     if user_input:
         with st.spinner("Thinking..."):
