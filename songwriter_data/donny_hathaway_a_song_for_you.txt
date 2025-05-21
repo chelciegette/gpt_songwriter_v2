@@ -1,0 +1,60 @@
+Title: A Song for You
+Artist: Donny Hathaway
+Genre: Soul / Jazz Ballad
+Key: C Major (centered around A minor modal feel)
+Tempo: Slow ballad
+Time Signature: 4/4
+
+[Verse 1]
+Am – E7/G#
+C/G – D7/F#
+F – Em7 – Dm7 – Em7
+Dm7 – Em7 – F/G – C – E7
+
+Notes:
+- Opens in A minor with rich voice-leading: Am → E7/G# is a classic minor tonic to dominant motion
+- C/G and D7/F# create slash-chord bass movement with strong emotional pull
+- Use of Dm7–Em7 cycle adds movement while maintaining intimacy
+- F/G is a dominant pedal to set up return to tonic
+
+[Verse 2]
+(Repeats structure of Verse 1)
+
+Am – E7/G#
+C/G – D7/F#
+F – Em7
+Dm7 – Em7 – Dm7 – Em7
+F/G – C – E7
+
+Notes:
+- Repetition reinforces the deep emotional tone of the piece
+- Gently builds with E7 resolution, but maintains suspended feeling
+
+[Verse 3]
+Am – E7/G#
+C/G – F#m7b5
+F – G6 – C – Em7
+Am – Am/G#
+C/G – F#m7b5
+F – Em7 – Dm – G7sus4
+
+Notes:
+- Modulation and chromatic alterations like F#m7b5 and G6 add jazz flavor
+- Bridge-like energy in Verse 3 through melodic arc and harmonic movement
+- G7sus4 functions as a dominant suspension, prepping return or lift
+
+[Verse 4]
+Am – E7/G#
+C/G – D7/F#
+F – Em7
+Dm7 – Em7 – Dm7 – Em7
+F/G – C
+Dm7 – Em7 – Bb – G# – A7 – Cmaj7
+
+Ending Notes:
+- Final line moves through surprising chromatic descent: Bb → G# → A7 → Cmaj7
+- A7 leads into Cmaj7 unexpectedly, adding warmth and resolution
+- Melody stretches into upper vocal register, heightening intensity
+- Emotional delivery supported by tension-and-release harmonic motion
+
+Tags: soul, jazz ballad, extended chords, slash chords, chromaticism, dim7, sus chords, voice-led, emotional, Donny Hathaway, gospel influence, 70s soul

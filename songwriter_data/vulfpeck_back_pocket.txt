@@ -1,0 +1,91 @@
+Title: Back Pocket
+Artist: Vulfpeck
+Genre: Funk / Soul / Retro Pop
+Key: G Major (modal shifts and borrowed chords throughout)
+Tempo: Mid-tempo groove, ~90 BPM
+Time Signature: 4/4
+
+[Intro]
+G – C/G
+
+[Refrain]
+G
+I know
+Am – Bbm
+That it's taken me all this time to say girl
+Bm
+I'm slow
+Am – D7
+So it's taken me all this time to say girl
+G
+Tip toe
+Am – Bbm
+And I want to acknowledge my mistake girl
+Bm
+Uh oh
+Am – D7
+And I hope that you know it's not too late
+
+Notes:
+- G major tonal center, with frequent use of chromatic movement (Am → Bbm → Bm)
+- Bbm is borrowed from G minor; adds nostalgic, jazzy color
+- D7 resolves back to tonic G major as V7
+
+[Hook]
+Bm/D
+Put it in my pocket
+Am/E
+In my back pocket
+Bm/D
+In my pocket
+Am/C
+Oh oh oh
+
+Bm/D
+Put it in my pocket
+Am/E
+In my back pocket
+Bm/D – Am/C – Bm/D – Am/E – D7/F#
+
+Notes:
+- Bass-driven slash chords emphasize groove and low-end movement
+- Bm/D anchors the harmonic rhythm
+- D7/F# pulls back to G major but delays resolution with suspensions
+
+[Verse]
+G
+Do you like me? Circle yes or no
+Am – Bbm – Bm
+'Cause I really really need to know
+Am – D7
+Are you gonna be my fifth grade queen?
+G
+Hand it back after second hour
+Am – Bbm – Bm
+I will know if you're my special flower
+Am – D7
+
+Notes:
+- Chord motion between Am → Bbm → Bm is repeated, driving both lyric and harmony forward
+- D7 remains a consistent resolution tool, maintaining song’s cyclical feel
+
+[Bridge]
+Cmaj7 – Bm7/D
+When you kissed me on the playground
+D#dim
+I lost my breath
+Em – Em/G – Em/F# – Em – Em/D
+Melodic descending motion (bass-driven)
+Cmaj7 – Bm7/D – D#dim
+You took the words out of my mouth
+Em – D – C – Bm – Am7 – D7
+
+Notes:
+- Rich harmonic layering in bridge; D#dim functions as pivot into Em
+- Em descending line is voice-led and groove-preserving
+- Builds tension and emotional texture with unexpected voicing shifts
+
+[Final Refrains]
+(Repeat earlier Refrain twice with full progression)
+
+Tags: funk, retro pop, falsetto, groove-based, chromatic harmony, borrowed chords, slash chords, Vulfpeck, 70s throwback, pocket groove, playful lyricism

@@ -1,0 +1,72 @@
+Title: Georgia
+Artist: Emily King
+Genre: Neo-Soul / R&B
+Key: G Major (modulates to Ab major later)
+Tempo: Mid-slow groove, reflective
+Time Signature: 4/4
+
+[Verse]
+Gmaj7
+I was not ready
+Cmaj7
+The day you gave me your heart
+Cm7 – Gmaj7
+I was still falling apart
+Gmaj7
+But since that moment
+Cmaj7
+I can't stop hearing your name
+Cm7 – Gmaj7
+Wondering about you always
+
+Notes:
+- Verse relies on Imaj7 (Gmaj7) and IVmaj7 (Cmaj7), creating a smooth, warm base
+- Cm7 introduces modal mixture: a borrowed iv7 chord from G minor
+- Emotional effect is intimate and unresolved
+
+[Chorus] (x2)
+Gmaj7
+Come back Georgia, come back
+F#7
+Come back Georgia, come back
+Am7
+I just need another chance
+Cm7
+Chance to make it better
+
+Notes:
+- F#7 functions as V7 of Bm (implied tonic shift)
+- Cm7 again used as chromatic surprise chord—gives sense of yearning
+- Soulful turnaround built with smooth descending voice-leading
+
+[Tag]
+Am7 – Gmaj7
+Oh to think that you would be
+E7
+Resting in my arms
+Am7 – Cm7
+Georgia where you are, I can't be without you
+Abmaj7
+Georgia oh
+
+Notes:
+- Modulation begins here: shift toward Ab major
+- E7 used as pivot chord—bright dominant leading toward modulation
+- Abmaj7 confirms key change and lifts emotion subtly
+
+[Chorus 2] (in Ab major)
+Abmaj7
+Come back Georgia, come back
+G7
+Come back Georgia, come back
+Bbm7
+I just need another chance
+Dbm7
+Chance to make it better
+
+Notes:
+- Full modulation to Ab major established
+- G7 borrowed as a secondary dominant to transition
+- Dbm7 is non-diatonic—serves as emotionally rich iv7 chord in new key
+
+Tags: neo-soul, female vocals, extended chords, modal interchange, key change, chromaticism, Emily King, introspective, maj7, iv7, modulation, borrowed harmony

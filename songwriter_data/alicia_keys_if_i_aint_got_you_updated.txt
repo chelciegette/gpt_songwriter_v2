@@ -1,0 +1,69 @@
+Title: If I Ain’t Got You
+Artist: Alicia Keys
+Genre: Soul / R&B Ballad
+Key: C Major (transposed live/performances may vary)
+Tempo: Slow ballad, ~64 BPM
+Time Signature: 6/8
+
+[Intro]
+Cmaj7 – Bm7 – Am7 – Gmaj7 – Am7 – Bm7
+Cmaj7 – Bm7 – Bbm7 – Am7 – Gmaj7
+
+Notes:
+- Chromatic descending motion through Bm7 → Bbm7 → Am7 creates emotional gravity
+- Cmaj7 and Gmaj7 establish tonal warmth
+- Repetition emphasizes longing and lyrical intimacy
+
+[Verse 1]
+Abmaj7 – Gmaj7 – Em7
+Am7 – D9
+Abmaj7 – Gmaj7 – G#dim7
+Am7 – D9
+
+Notes:
+- Abmaj7 → Gmaj7 introduces non-diatonic color (borrowed chords with descending motion)
+- Use of G#dim7 as chromatic passing chord between Gmaj7 and Am7
+- D9 sets up return to Gmaj7 (secondary dominant movement)
+
+[Pre-Chorus]
+Gmaj7 – Am7 – Bm7 – Am7
+Gmaj7 – Am7 – Bm7 – Cmaj7
+Bm7 – Am7 – Gmaj7 – Am7
+Bm7 – Am7 – Gmaj7 – Am7 – Bm7
+
+Notes:
+- Voice-leading between Bm7 and Am7 keeps harmonic motion smooth and expressive
+- Cmaj7 adds lift at midpoint; ends with unresolved progression into chorus
+- Strong soul ballad flavor with extended and minor 7ths throughout
+
+[Chorus]
+Cmaj9 – Bm7 – Am7 – Gmaj7
+Gmaj7 – Am7 – Bm7 – Cmaj7
+Bm7 – Bbm7 – Am7 – Gmaj7
+Gmaj7 – Gmaj7 – Gmaj7
+
+Notes:
+- Cmaj9 brings lushness to opening of chorus
+- Bbm7 borrowed from parallel minor creates emotional twist before resolving back to Gmaj7
+- Repeated Gmaj7 in final phrase acts as emotional anchor
+
+[Verse 2]
+(Same as Verse 1)
+
+[Pre-Chorus]
+(Same as earlier pre-chorus)
+
+[Chorus]
+(Same structure, repeated with lyrical and harmonic embellishments)
+
+[Outro]
+Cmaj7 – Bm7 – Am7 – Gmaj7
+Am7 – Bm7 – Cmaj7 – Bm7
+Bbm7 – Am7 – Gmaj7 – D
+
+Ending Notes:
+- Final line ends on D, creating an upward harmonic push (dominant gesture)
+- B chromatic scale up an octave with G bass note = musical punctuation for outro
+- Last vocal line stretches high in range, increasing intensity
+
+Tags: soul, ballad, female vocals, chromatic descent, extended chords, gospel influence, Alicia Keys, emotional arc, borrowed chords, dim7, 6/8, lush voicings

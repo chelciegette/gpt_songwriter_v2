@@ -1,0 +1,60 @@
+Title: Sir Duke
+Artist: Stevie Wonder
+Genre: Funk / Soul / Jazz-Pop
+Key: B Major
+Tempo: Upbeat, celebratory
+Time Signature: 4/4
+
+[Intro]
+B – G#m – G – F#
+B – G#m – G – F#
+
+Notes:
+- Repeating chromatic descent in intro outlines a harmonic “hook”
+- G and F# outside of B major scale add funk-influenced tension
+- Sets a playful tone with surprise chromaticism
+
+[Verse 1]
+B – G#m – G9 – F#9
+B – G#m – G9 – F#9 – F9
+E9 – D#9 – D9 – C#9
+D9 – D#9 – E9
+E9 – D#9 – D9 – C#9
+D9 – D#9 – E9 – F9 – F#9
+
+Notes:
+- Chromatic descending 9th chords (E9 to C#9) create strong forward motion
+- Repeated use of G9, F#9, F9 blurs tonal center momentarily (modal borrowing)
+- F#9 functions as dominant returning to tonic B major
+
+[Chorus]
+B – Fm7 – Emaj7 – C#m7 – F#7
+B – Fm7 – Emaj7 – C#m7 – F#7
+
+Notes:
+- Chorus introduces Fm7 (chromatic subdominant) — unexpected and colorful
+- Emaj7 and C#m7 add lyrical, jazzy warmth
+- F#7 is strong V7 returning to tonic (B major), classic resolution
+
+[Instrumental Break]
+(Horn lines outline major and dominant arpeggios)
+- Brass section plays rhythmic sixteenth-note figures
+- Emphasizes B major scale tones with passing chromatic notes
+- Call-and-response between horns and rhythm section
+
+[Verse 2]
+(Same progression as Verse 1)
+
+[Chorus]
+(Same as previous chorus)
+
+[Outro]
+(Repetition of chorus progression, possibly transposed or extended live)
+
+Notes:
+- Horn arrangement is central: syncopated, brassy, and melodic
+- Harmonic rhythm is fast — multiple changes per measure
+- Juxtaposes diatonic structure (B major) with chromatic surprises (G9, F9)
+- Reflects Stevie Wonder’s jazz background and pop accessibility
+
+Tags: funk, soul, jazz-pop, horn-driven, chromatic harmony, tribute song, 70s, Stevie Wonder, dominant 9ths, modal borrowing

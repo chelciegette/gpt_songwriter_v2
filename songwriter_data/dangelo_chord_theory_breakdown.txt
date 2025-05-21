@@ -1,0 +1,47 @@
+Title: D’Angelo Chord Theory Breakdown (from Jeff Schneider YouTube video)
+Artist: D’Angelo (analyzed by Jeff Schneider)
+Source: Voodoo album analysis
+Tags: neo-soul, chromatic bass, sticky top, waterfall baseline, 3-foot sub, VX GAS, dominant avoidance, altered chords, theory breakdown, YouTube transcript
+
+[Technique: Waterfall Bassline]
+Used in: “Left and Right”
+Chord Motion: Downward half-steps (e.g., G7 → Gbmaj7)
+Effect: Smooth chromatic movement; connects unrelated chords with pleasing voice leading
+
+[Technique: Sticky Top Note]
+Used in: “Left and Right”
+Definition: Top note of each voicing stays fixed while chords change below
+Effect: Creates harmonic cohesion and continuity
+
+[Song: “Send It On”]
+Key: F Major
+Chord Progression: Am7 – Gm11 – C13sus – Fmaj9
+Technique Highlighted: Starts on the iii chord instead of I
+→ This is called the “3-foot sub” (chord a third above or below tonic can sub in for tonic)
+Explanation: Am7 shares key tones with Fmaj7 but creates a deeper, more modern vibe
+
+[Technique: VX GAS]
+Used in: “One Mo’Gin”
+Explanation: VX = “V of X” (i.e., secondary dominant); GAS = just for the funky name
+Example: F7 → not going to Bbmin, but instead to Dbmaj7 (subbing in as a 3rd away)
+Effect: Extended dominant feel without expected resolution
+
+[Song: “Feel Like Making Love” (cover)]
+Key: B Major
+Highlights:
+- Starts on ii chord
+- Uses B7 (V of E minor — “VX GAS”)
+- E7 lingers → not transitional but part of emotional resolution
+
+[Song: “Untitled (How Does It Feel)”]
+Progression: Dmaj7 – Am7 – Gm7 – C7
+Key Techniques:
+- Smooth bass motion by skipping V chord
+- Am7 → Gmaj7 is more fluid than Am7 → D7 → G
+Lesson: Dominant 7th chords can interrupt neo-soul smoothness; avoid them for softer transitions
+
+[Summary Notes]
+- Dominant chords aren’t always needed (especially in neo-soul)
+- Modal ambiguity and chromatic descent are hallmarks of the genre
+- Voice leading matters as much as harmonic function
+- R&B and gospel often intentionally skip traditional resolutions to preserve feel

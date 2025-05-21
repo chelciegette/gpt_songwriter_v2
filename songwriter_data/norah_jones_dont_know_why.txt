@@ -1,0 +1,67 @@
+Title: Don't Know Why
+Artist: Norah Jones
+Genre: Jazz Pop / Acoustic Ballad
+Key: Bb Major
+Tempo: Slow, ~70 BPM
+Time Signature: 4/4 with a swing feel
+
+[Verse 1]
+Bbmaj7 – Bb7 – Ebmaj7 – Daug
+Gm7 – C7 – F7sus – Bb
+Bbmaj7 – Bb7 – Ebmaj7 – Daug
+Gm7 – C7 – F7sus – Bb
+Gm7 – C7 – F7sus
+
+Bbmaj7 – Bb7 – Ebmaj7 – Daug
+Gm7 – C7 – F7sus – Bb
+Bbmaj7 – Bb7 – Ebmaj7 – Daug
+Gm7 – C7 – F7sus – Bb
+
+Notes:
+- Alternates between Bbmaj7 and Bb7 to suggest movement toward Eb (IV)
+- Daug (augmented dominant) adds tension before Gm7
+- Jazz-influenced substitutions with use of 7sus and 7alt voicings
+- Gentle chord flow supports the reflective vocal line
+
+[Chorus]
+Gm7 – C7 – F – F7
+Gm7 – C7 – F7
+F7/Eb – Bb/D – F/C
+
+Notes:
+- Classic ii–V–I phrasing (Gm7 → C7 → F)
+- Bass walk-down from F7/Eb to Bb/D to F/C provides voice-leading movement
+- Ends phrase with emotional longing through descending bass
+
+[Verse 2]
+Bbmaj7 – Bb7 – Ebmaj7 – Daug
+Gm7 – C7 – F7sus – Bb
+Bbmaj7 – Bb7 – Ebmaj7 – Daug
+Gm7 – C7 – F7sus – Bb
+
+[Chorus]
+Gm7 – C7 – F – F7
+Gm7 – C7 – F7
+
+[Instrumental Tag/Extended Chorus Line]
+Bbmaj7 – Bb7 – Ebmaj7 – D7#5 – Gm7 – C7 – F7sus – Bbmaj7 – Ebmaj7 – Daug – Gm7 – C7 – F7sus
+
+Notes:
+- D7#5 is a sharp tension chord used for color and modulation tease
+- Extended line provides a jazz solo section feel
+- Maintains soft dynamic while enhancing complexity
+
+[Outro]
+Bbmaj7 – Bb7 – Ebmaj7 – Daug
+Gm7 – C7 – F7sus – Bb
+Bbmaj7 – Bb7 – Ebmaj7 – Daug
+Gm7 – C7 – F7 – Bb
+Gm7 – C7 – F7 – Bb
+Gm7 – C7 – F7sus – Bb
+
+Notes:
+- Maintains soft and intimate delivery
+- F7sus functions as unresolved cadence to extend emotional suspension
+- Final Bb cadence ends softly, unresolved emotionally but harmonically stable
+
+Tags: jazz ballad, acoustic, female vocals, swing feel, extended harmony, voice-led progressions, jazz-pop, Norah Jones, ii-V-I, augmented dominant, sus chords

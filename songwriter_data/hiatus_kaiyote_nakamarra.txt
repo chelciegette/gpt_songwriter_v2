@@ -1,0 +1,84 @@
+Title: Nakamarra
+Artist: Hiatus Kaiyote
+Genre: Neo-Soul / Jazz-Funk / Future Soul
+Key: Eb Major (modal shifts and color chords throughout)
+Tempo: Mid-slow groove
+Time Signature: 4/4
+
+[Intro]
+Ebmaj7 – Dbmaj7 (x2)
+Ebmaj7 – Dbmaj7 – Ebmaj7 (x2)
+
+Notes:
+- Lush major 7th chords set a dreamy, floating harmonic bed
+- Alternating between Ebmaj7 and Dbmaj7 evokes suspended emotional state
+- Modal interchange and stepwise descent (Eb → Db) build gentle tension
+
+[Verse 1]
+Abmaj7 – Ab6 – Ebmaj7 – Abmaj7
+Fm7 – Cmaj7 – Abmaj7 – Ab6
+Ebmaj7 – Abmaj7 – Fm7 – Cmaj7 – Abmaj7
+
+Notes:
+- Progression mixes major and minor 7ths with added 6ths for smoothness
+- Cmaj7 adds unexpected brightness mid-phrase, modally ambiguous
+- Root motion supports the lyrical imagery of emotional connection and space
+
+[Refrain / Chorus]
+Ebmaj7 – Dbmaj7 (repeated)
+"I love you, I love you, I love you I do"
+
+Notes:
+- Repeated two-chord vamp becomes a harmonic mantra
+- Very little movement — emotionally hypnotic
+- Dbmaj7 is not diatonically part of Eb major, creating gentle contrast
+
+[Verse 2]
+Abmaj7 – Ab6 – Ebmaj7 – Abmaj7
+Fm7 – Cmaj7 – Abmaj7 – Ab6
+Ebmaj7 – Abmaj7 – Fm7 – Cmaj7 – Abmaj7
+
+Notes:
+- Mirrors verse 1, emphasizing harmonic motif
+- Expressive extensions (maj7, 6, m7) keep the harmony lush but grounded
+
+[Verse 3 / Bridge]
+Cmaj7 – Abmaj7 – Dbmaj7 (x3)
+Cmaj7 – Abmaj7
+Ebmaj7 – Dbmaj7 (repeats with "I love you" refrain)
+
+Notes:
+- Cmaj7 and Dbmaj7 open harmonic space for melodic phrasing
+- Resolves gently into Ebmaj7, linking back to main vamp
+
+[Q-Tip Verse]
+Abmaj7 – Ab6
+Ebmaj7 – Abmaj7
+Fm7 – Cmaj7
+Abmaj7 – Ab6
+Ebmaj7 – Abmaj7
+Fm7 – Cmaj7
+Abmaj7
+Ebmaj7 – Dbmaj7 (refrain)
+
+Notes:
+- Q-Tip’s verse preserves harmonic language while shifting rhythmic feel
+- Maintains the neo-soul/jazz-funk pocket while reinforcing song’s tonal unity
+- Spoken rhythm contrasts well against floating harmony
+
+[Verse 3 Repeat]
+Cmaj7 – Abmaj7 – Dbmaj7 (x3)
+Cmaj7 – Abmaj7
+Ebmaj7 – Dbmaj7 (repeats)
+
+[Outro]
+Fmaj7 – Ebmaj7 – Dbmaj7
+Fmaj7 – Ebmaj7 – Dbmaj7
+Fmaj7 – Ebmaj7 – F#maj7 (x2)
+
+Notes:
+- Outro modulates subtly, introducing F#maj7 as a new color
+- Suggests open-endedness; no final tonic resolution
+- Leaves emotional ambiguity with a lift and float
+
+Tags: neo-soul, jazz-funk, future soul, extended chords, modal interchange, chromaticism, major7 voicings, lush textures, Hiatus Kaiyote, rhythmic layering, Q-Tip, hypnotic progression

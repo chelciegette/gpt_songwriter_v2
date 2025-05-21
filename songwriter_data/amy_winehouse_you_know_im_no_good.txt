@@ -1,0 +1,99 @@
+Title: You Know I'm No Good
+Artist: Amy Winehouse
+Genre: Jazz-Pop / Soul / Retro R&B
+Key: D Minor
+Tempo: ~103 BPM, swung groove
+Time Signature: 4/4
+
+[Verse 1]
+Dm – Gm
+Meet you downstairs in the bar and hurt
+A7 – Dm
+Your rolled up sleeves in your skull t-shirt
+Dm – Gm
+You say, “What did you do with him today?”
+A7 – Dm
+And sniffed me out like I was Tanqueray
+
+[Pre-Chorus]
+Gm
+Cause you're my fella, my guy
+E7
+Hand me your stella and fly
+F
+By the time I'm out the door
+E7 – A7
+You tear men down like Roger Moore
+
+[Chorus]
+Dm – Am – E7 – Am
+I cheated myself like I knew I would
+Dm – Am – E7 – Am
+I told ya I was trouble, you know that I'm no good
+
+Notes:
+- Dm is the minor tonic center with jazz-soul inflections
+- E7 functions as V7/vi and as a pivot chord into Am
+- Chromatic flavor through A7–Dm–Gm cycles
+- Strong melodic interplay above a stable, looped progression
+
+[Verse 2]
+Dm – Gm
+Upstairs in bed with my ex boy
+A7 – Dm
+He's in a place but I can't get joy
+Dm – Gm
+Thinking on you in the final throes
+A7 – Dm
+This is when my buzzer goes
+
+[Pre-Chorus]
+Gm
+Run out to meet your chips and pitta
+E7
+You say, “When we're married,” 'cause you're not bitter
+F
+There'll be none of him no more
+E7 – A7
+I cried for you on the kitchen floor
+
+[Repeat Chorus]
+
+[Verse 3]
+Dm – Gm
+Sweet reunion, Jamaica and Spain
+A7 – Dm
+We're like how we were again
+Dm – Gm
+I'm in the tub, you on the seat
+A7 – Dm
+Lick your lips as I soak my feet
+
+[Pre-Chorus]
+Gm
+Then you notice little carpet burn
+E7
+My stomach drops and my guts churn
+F
+You shrug and it's the worst
+E7 – A7
+Who truly stuck the knife in first
+
+[Final Chorus]
+Dm – Am – E7 – Am
+I cheated myself like I knew I would
+Dm – Am – E7 – Am
+I told ya I was trouble, you know that I'm no good
+
+(Repeat)
+
+[Outro]
+Dm
+
+Notes:
+- Repeating ii–V–i progression with chromatic and dominant substitutions
+- Gm → E7 → A7 is non-diatonic yet maintains fluidity and forward motion
+- Lyrics and harmony work in tandem to create a confessional, unresolved tone
+- Chord loop matches Winehouse's lyrical vulnerability and retro-jazz vibe
+
+Tags: retro soul, jazz-pop, female vocals, ii–V–i, dominant 7ths, confessional lyrics, Amy Winehouse, D minor, chromaticism, gospel-influenced harmony, lounge groove
